@@ -1,0 +1,39 @@
+.hp {
+    margin: 0 auto;
+    display: block;
+    background-color: #000;
+    color: white;
+    font-size: large;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+h1 {
+    text-align: center
+}
+
+picture img {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 400px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 30px grey;
+
+}
+
+h2 {
+    display: block;
+    border-bottom: 1px dotted #000;
+    padding: 0 0 8px;
+}
+
+section {
+    width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 5px;
+
+}
